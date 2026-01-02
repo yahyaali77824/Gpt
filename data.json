@@ -1,0 +1,12 @@
+{
+  "userSessions": {},
+  "statistics": {
+    "totalUsers": 0,
+    "totalMessages": 0,
+    "activeSessions": 0
+  },
+  "config": {
+    "maxHistoryLength": 20,
+    "sessionTimeout": 3600000
+  }
+}
